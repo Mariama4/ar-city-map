@@ -1,2 +1,2 @@
-# ar-city-game
-Game with augmented reality by coordinates
+# ar-city-map
+Map with augmented reality by coordinates
